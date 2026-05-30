@@ -1,0 +1,2 @@
+# Udemy-Performance-Dashboard-built-in-Microsoft-Excel
+Strategic Insights &amp; Toolkit  Web Dev: Main revenue driver, leading in subscribers &amp; reviews.  Trends: 2014–16 content surge boosted peak revenue. Beginner courses have highest demand.  BI Dashboards: Built interactive Excel slicers for real-time reporting by year/level.  Tech: MS Excel (Pivot Tables/Charts), Data Cleaning, Business Visualization.
